@@ -1,0 +1,24 @@
+.img-principal{
+    text-align:center;
+    margin-top: 50px;
+    
+}
+img{
+    width: 1500px;
+    height: 650px;
+}
+
+.carousel-inner img {
+    width: 1050px;
+    height: 462px;
+  }
+
+  #demo, .carousel-home{
+
+ text-align: center;
+ align-items: center;
+  }
+
+  h1{
+    text-align: center;
+  }
